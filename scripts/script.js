@@ -72,8 +72,6 @@ var heightManager = function (width)
   {
     swiperContainer.style.height = "fit-content";
   }
-
-  //buttonText.textContent = swiperContainer.style.height;
 }
 
 var resizeManager = function ()
